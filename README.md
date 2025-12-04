@@ -26,16 +26,10 @@ HTML, CSS, JavaScript, Node.js, NPM, Next.js, Electron ve Python kullanarak uygu
 
 ---
 
-## GitHub İstatistiklerim
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername\&layout=compact\&theme=tokyonight)
-
----
 
 ## Bana Ulaş
 
-* GitHub: **github.com/yourusername**
+* GitHub: **github.com/justawp**
 * E-posta: **[justawp2@gmail.com](mailto:justawp2@gmail.com)**
 
 ---
