@@ -1,12 +1,10 @@
-# 👋 Merhaba, Ben Enes!
+# Merhaba, Ben Just!
 
-### 🚀 Full-Stack Developer
-
-HTML, CSS, JavaScript, Node.js, NPM, Next.js, Electron ve Python kullanarak modern, hızlı ve kullanıcı dostu uygulamalar geliştiriyorum.
+HTML, CSS, JavaScript, Node.js, NPM, Next.js, Electron ve Python kullanarak uygulamalar geliştiriyorum.
 
 ---
 
-## 🛠️ Kullandığım Teknolojiler
+## Kullandığım Teknolojiler
 
 <p align="left">
   <img style="border-radius:20px;" src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -21,26 +19,23 @@ HTML, CSS, JavaScript, Node.js, NPM, Next.js, Electron ve Python kullanarak mode
 
 ---
 
-## 📌 Hakkımda Kısa Kısa
+## Hakkımda Kısa Kısa
 
-* ⚡ Modern arayüzler ve performans odaklı projeler geliştirmeyi seviyorum.
-* 🔧 Hem web hem de masaüstü uygulamaları oluşturabiliyorum.
-* 📚 Her gün yeni bir şey öğrenmeye çalışıyorum.
+*  Hem web hem de masaüstü uygulamaları oluşturabiliyorum.
+*  Her gün yeni bir şey öğrenmeye çalışıyorum.
 
 ---
 
-## 📈 GitHub İstatistiklerim
+## GitHub İstatistiklerim
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername\&layout=compact\&theme=tokyonight)
 
 ---
 
-## 📫 Bana Ulaş
+## Bana Ulaş
 
 * GitHub: **github.com/yourusername**
-* E-posta: **[yourmail@example.com](mailto:yourmail@example.com)**
+* E-posta: **[justawp2@gmail.com](mailto:justawp2@gmail.com)**
 
 ---
-
-⭐️ Eğer projelerimi beğenirsen yıldız vermeyi unutma!
